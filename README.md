@@ -1,1 +1,1 @@
-# docker-course
+# sql-course
